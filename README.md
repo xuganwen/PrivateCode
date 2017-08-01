@@ -1,0 +1,2 @@
+# PrivateCode
+this is myPrivateProjectCodeDir
